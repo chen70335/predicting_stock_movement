@@ -81,20 +81,3 @@ each of the four datasets.
     differences in using no feature selection technique, recursive feature elimination,
     or SelectKBest. This function also calls fs_accuracy(df_list) which computes the
     accuracy for all 12 results (3 for each dataset * 4 total datasets)
-
- 
-# Question 3 - EPS
--"question_3_eps" contains all the files needed to create the tests
-done surrounding the third research question
-
-    1. The dataset containing EPS surprise, stock name, and other info can 
-        created by running eps_data_collection.py. This creates csv files
-        that will be used for later functions
-    2. Running model.py will print out the accuracies of the models using
-        the csv files generated in the last step.
-    3. Running graph.py will produce a graph of the data from model.py
-    4. Running test
-
-
- 
-
