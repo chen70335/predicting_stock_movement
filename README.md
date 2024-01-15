@@ -57,7 +57,7 @@ that the client can use to interpret different results.
  
  
 # graph.py
-<img width="335" alt="comparing_industry" src="https://github.com/chen70335/predicting_stock_movement/assets/101837218/545e7b43-8023-4662-9a12-943c5c6a669f">
+<img width="600" alt="comparing_industry" src="https://github.com/chen70335/predicting_stock_movement/assets/101837218/545e7b43-8023-4662-9a12-943c5c6a669f">
 
 Takes in 4 seperate datasets including technology, healthcare, financial,
 and combined. Produces bar graphs that show the accuracy differences between
